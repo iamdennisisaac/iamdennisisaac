@@ -5,6 +5,9 @@ I bridge the gap between **design vision** and **technical execution**. With 15 
 
 ---
 
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)
+
+---
 ## 🛠 Tech Stack & Expertise
 
 - **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3.
