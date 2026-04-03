@@ -7,7 +7,7 @@ I bridge the gap between **design vision** and **technical execution**. With ove
 
 ## 🛠 Tech Stack & Expertise
 
-- [cite_start]**Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3[cite: 33, 34, 35, 36, 37].
+- [cite_start] **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3[cite: 33, 34, 35, 36, 37].
 - [cite_start]**Styling & UI:** Tailwind CSS, Design Systems, Atomic Design[cite: 28, 37].
 - [cite_start]**Design & Motion:** Figma, Adobe Creative Suite, After Effects, Framer Motion[cite: 39, 40].
 - [cite_start]**Focus Areas:** Performance Optimization, User Research, SaaS Architecture, and Business Impact[cite: 16, 29, 30].
