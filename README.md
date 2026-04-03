@@ -1,42 +1,41 @@
 # Hi, I'm Dennis 👋 
 
 ### Founding UX Engineer & Front-End Architect
-I bridge the gap between **design vision** and **technical execution**. [cite_start]With over 15 years of experience [cite: 2][cite_start], I specialize in building scalable front-end systems and translating complex concepts—from AI-driven workflows to real-time collaborative canvases—into intuitive user experiences[cite: 11, 20].
+I bridge the gap between **design vision** and **technical execution**. With 15 years of experience, I specialize in building scalable front-end systems and translating complex concepts—from AI-driven workflows to real-time collaborative canvases—into intuitive user experiences.
 
 ---
 
 ## 🛠 Tech Stack & Expertise
 
-- [cite_start]**Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3[cite: 31, 33, 34, 35, 37].
-- [cite_start]**Styling & UI:** Tailwind CSS, Design Systems, Atomic Design[cite: 37, 15].
-- [cite_start]**Design & Motion:** Figma, Adobe Creative Suite, After Effects, Framer Motion[cite: 39, 40].
-- [cite_start]**Focus Areas:** Performance Optimization, User Research, SaaS Architecture, and Business Impact[cite: 24, 27, 28, 29].
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3.
+- **Styling & UI:** Tailwind CSS, Design Systems, Atomic Design.
+- **Design & Motion:** Figma, Adobe Creative Suite, After Effects, Framer Motion.
+- **Focus Areas:** Performance Optimization, User Research, SaaS Architecture, and Business Impact.
 
 ---
 
 ## 🚀 Impact Highlights
 
-* [cite_start]**AI Transformation:** Led the end-to-end design and front-end development for an AI startup, contributing to a successful $1M+ seed funding round[cite: 11, 59].
-* [cite_start]**Real-time Collaboration:** Spearheaded the transition of a global diagramming tool into a real-time multiplayer platform, reaching top 25 global status[cite: 19, 57].
-* [cite_start]**E-commerce Optimization:** Re-architected checkout and search flows for high-traffic platforms to reduce friction and increase retention[cite: 24].
-* [cite_start]**Strategic Growth:** Partnered with 10+ global SaaS clients to drive measurable increases in ARR and customer retention[cite: 60, 61].
+* **AI Transformation:** Led the end-to-end design and front-end development for an AI startup, contributing to a successful $1M+ seed funding round.
+* **Real-time Collaboration:** Spearheaded the transition of a global diagramming tool into a real-time multiplayer platform, reaching top 25 global status.
+* **E-commerce Optimization:** Re-architected checkout and search flows for high-traffic platforms to reduce friction and increase retention.
+* **Strategic Growth:** Partnered with 10+ global SaaS clients to drive measurable increases in ARR and customer retention.
 
 ---
 
 ## 📈 Engineering Principles
 
-> [cite_start]"I don't just build UI; I build products that move business needles." [cite: 30, 41]
+> "I build UI and functional products that move business needles."
 
-1. [cite_start]**Accessibility First:** Ensuring complex data-driven applications remain usable for everyone[cite: 51].
-2. [cite_start]**Performance-Driven:** Optimizing user flows to drive retention and conversion[cite: 16].
-3. [cite_start]**Clean Architecture:** Building scalable front-end systems that bridge design and engineering[cite: 15, 25].
+1. **Accessibility First:** Ensuring complex data-driven applications remain usable for everyone.
+2. **Performance-Driven:** Optimizing user flows to drive retention and conversion.
+3. **Clean Architecture:** Building scalable front-end systems that bridge design and engineering.
 
 ---
 
 ## 🔗 Connect & Portfolio
-* [cite_start]**Portfolio:** [dennisisaac.com](https://www.dennisisaac.com) [cite: 84] *(Case studies password-protected)*
-* [cite_start]**LinkedIn:** [linkedin.com/in/dennisisaac](https://www.linkedin.com/in/dennisisaac) [cite: 2]
-* [cite_start]**Role:** Currently serving as a Founding UX Engineer [cite: 9]
+* **Portfolio:** [dennisisaac.com](https://www.dennisisaac.com) *(Case studies password-protected)*
+* **LinkedIn:** [linkedin.com/in/dennisisaac](https://www.linkedin.com/in/dennisisaac)
 
 ---
 
