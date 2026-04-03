@@ -1,13 +1,15 @@
-# Hi, I'm Dennis 👋 
+# Hi, I'm Dennis 👋
 
 ### Founding UX Engineer & Front-End Architect
+
 I bridge the gap between **design vision** and **technical execution**. With 15 years of experience, I specialize in building scalable front-end systems and translating complex concepts—from AI-driven workflows to real-time collaborative canvases—into intuitive user experiences.
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/iamdennisisaac/iamdennisisaac/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/iamdennisisaac/iamdennisisaac/output/github-snake.svg?v=1)
 
 ---
+
 ## 🛠 Tech Stack & Expertise
 
 - **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3.
@@ -19,10 +21,10 @@ I bridge the gap between **design vision** and **technical execution**. With 15 
 
 ## 🚀 Impact Highlights
 
-* **AI Transformation:** Led the end-to-end design and front-end development for an AI startup, contributing to a successful $1M+ seed funding round.
-* **Real-time Collaboration:** Spearheaded the transition of a global diagramming tool into a real-time multiplayer platform, reaching top 25 global status.
-* **E-commerce Optimization:** Re-architected checkout and search flows for high-traffic platforms to reduce friction and increase retention.
-* **Strategic Growth:** Partnered with 10+ global SaaS clients to drive measurable increases in ARR and customer retention.
+- **AI Transformation:** Led the end-to-end design and front-end development for an AI startup, contributing to a successful $1M+ seed funding round.
+- **Real-time Collaboration:** Spearheaded the transition of a global diagramming tool into a real-time multiplayer platform, reaching top 25 global status.
+- **E-commerce Optimization:** Re-architected checkout and search flows for high-traffic platforms to reduce friction and increase retention.
+- **Strategic Growth:** Partnered with 10+ global SaaS clients to drive measurable increases in ARR and customer retention.
 
 ---
 
@@ -37,8 +39,9 @@ I bridge the gap between **design vision** and **technical execution**. With 15 
 ---
 
 ## 🔗 Connect & Portfolio
-* **Portfolio:** [dennisisaac.com](https://www.dennisisaac.com) *(Case studies password-protected)*
-* **LinkedIn:** [linkedin.com/in/dennisisaac](https://www.linkedin.com/in/dennisisaac)
+
+- **Portfolio:** [dennisisaac.com](https://www.dennisisaac.com) _(Case studies password-protected)_
+- **LinkedIn:** [linkedin.com/in/dennisisaac](https://www.linkedin.com/in/dennisisaac)
 
 ---
 
