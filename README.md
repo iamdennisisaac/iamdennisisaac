@@ -45,4 +45,4 @@ I bridge the gap between **design vision** and **technical execution**. With 15 
 
 ---
 
-![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamdennisisaac&show_icons=true&theme=tokyonight)
