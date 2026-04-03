@@ -5,7 +5,9 @@ I bridge the gap between **design vision** and **technical execution**. With 15 
 
 ---
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)
+![Snake animation](https://github.com/
+iamdennisisaac/
+iamdennisisaac/blob/output/github-snake.svg)
 
 ---
 ## 🛠 Tech Stack & Expertise
